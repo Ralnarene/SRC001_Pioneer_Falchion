@@ -1,6 +1,6 @@
 # SRC001_Pioneer_Falchion
 
-This contains the assembly instructions for a Pi Zero based prop cyberdeck.
+This contains the assembly instructions for a Pi Zero W based prop cyberdeck.
 Assembly will also require SRC000_Zero_Stack to complete.
 
 The instructions are written in a fictional cyberpunk in-universe style.
